@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.demo-editor >rdw-editor-main{
+  border: '1px solid #F1F1F1';
+}
